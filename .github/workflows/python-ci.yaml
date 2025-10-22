@@ -2,7 +2,7 @@ name: Python CI
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main, easter-egg-for-the-curious]
   pull_request:
 
 jobs:
